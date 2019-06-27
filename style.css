@@ -1,6 +1,7 @@
 body
-{background-image:linear-gradient(#FFF55D,grey); }
+{background-color: rgb(249, 250, 190)} 
 head
 {background-color: #FFF55D}
 transition: transform 1s ease, opacity .5s ease-out
-<button type="button" class="btn btn-outline-warning">Warning</button>
+#cabecera
+{border-color: coral;}
