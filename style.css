@@ -1,0 +1,5 @@
+body
+{background-image:linear-gradient(#FFF55D,grey); }
+head
+{background-color: #FFF55D}
+transition: transform 1s ease, opacity .5s ease-out
