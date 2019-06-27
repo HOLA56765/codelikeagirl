@@ -3,5 +3,5 @@ body
 head
 {background-color: #FFF55D}
 transition: transform 1s ease, opacity .5s ease-out
-#cabecera
-{border-color: coral;}
+h1
+{background-color: #E36B2C;}
