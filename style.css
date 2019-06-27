@@ -3,3 +3,4 @@ body
 head
 {background-color: #FFF55D}
 transition: transform 1s ease, opacity .5s ease-out
+<button type="button" class="btn btn-outline-warning">Warning</button>
